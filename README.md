@@ -1,3 +1,3 @@
 # danielchan1.github.io
-all about me
+all about me\n
 edited
